@@ -462,21 +462,21 @@ footer {
 }
 
 .social-vk {
-	 background: #000000 url(images/vk.svg) no-repeat center;
+	 background: #000000 url(images/vk-white.svg) no-repeat center;
 }
 .social-vk:hover,
 .social-vk:focus {
 	background: #ffffff url(images/vk.svg) no-repeat center;
 }
 .social-fb {
-	 background: #000000 url(images/fb.svg) no-repeat center;
+	 background: #000000 url(images/fb-white.svg) no-repeat center;
 }
 .social-fb:hover,
 .social-fb:focus {
 	background: #ffffff url(images/fb.svg) no-repeat center;
 }
 .social-insta {
-	 background: #000000 url(images/insta.svg) no-repeat center;
+	 background: #000000 url(images/insta-white.svg) no-repeat center;
 }
 .social-insta:hover,
 .social-insta:focus {
