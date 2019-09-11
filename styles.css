@@ -462,25 +462,25 @@ footer {
 }
 
 .social-vk {
-	 background: #000000 url(images/vk.png) no-repeat center;
+	 background: #000000 url(images/vk.svg) no-repeat center;
 }
 .social-vk:hover,
 .social-vk:focus {
-	background: #ffffff url(images/vk-focus.png) no-repeat center;
+	background: #ffffff url(images/vk.svg) no-repeat center;
 }
 .social-fb {
-	 background: #000000 url(images/fb.png) no-repeat center;
+	 background: #000000 url(images/fb.svg) no-repeat center;
 }
 .social-fb:hover,
 .social-fb:focus {
-	background: #ffffff url(images/fb-focus.png) no-repeat center;
+	background: #ffffff url(images/fb.svg) no-repeat center;
 }
 .social-insta {
-	 background: #000000 url(images/insta.png) no-repeat center;
+	 background: #000000 url(images/insta.svg) no-repeat center;
 }
 .social-insta:hover,
 .social-insta:focus {
-	background: #ffffff url(images/insta-focus.png) no-repeat center;
+	background: #ffffff url(images/insta.svg) no-repeat center;
 }
 .footer-copyright {
 	width: 143px;
